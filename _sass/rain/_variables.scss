@@ -11,8 +11,8 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$sans-serif: 'neodgm', monospace;
-$monospaced: 'neodgm', monospace;
+$sans-serif: 'MonaS12', monospace;
+$monospaced: 'MonaS12', monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;

@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          metaphr.dev
+description:    "언어와 언어를 연결합니다."
+url:            https://metaphr.dev
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         park
+  email:        ksthink@metaphr.dev
+  url:          https://metaphr.dev
 
 # Build settings
 markdown:       kramdown

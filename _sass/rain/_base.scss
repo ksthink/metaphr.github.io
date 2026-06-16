@@ -34,8 +34,13 @@ h5,
 h6 {
   color: $default-shade;
   font-family: $sans-serif;
-  font-weight: normal;
+  font-weight: 700;
   line-height: normal;
+}
+
+strong,
+b {
+  font-weight: 700;
 }
 
 a {
